@@ -7,8 +7,8 @@ Advocate of Climate Change
 ---
 ### Education
 
-Student Pursuing a B.S. in Marine Biology 
-Ernest F. Hollings Scholar Recipient 
+Student Pursuing a B.S. in Marine Biology;  
+Ernest F. Hollings Scholar Recipient;
 National Society of Collegiate Scholars Member
 
 
@@ -19,7 +19,7 @@ National Society of Collegiate Scholars Member
 ### Work Experience
 
 NOAA's Southwest Fisheries Science Center 
-Former Coastal & Environmental Fellow 
+Former URI Coastal & Environmental Fellow 
 Former Aquarist & Conservationist at Save the Bay
 
 ---

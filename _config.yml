@@ -1,12 +1,10 @@
-title: Brice Loose # your name (or website title) here
-logo: "/images/headshot.JPG?raw=true" # your photo (or logo) here
+title: Elizabeth Saraf # your name (or website title) here
+logo: "/images/Saraf.JPG?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Associate Professor
-  URI <a href="https://web.uri.edu/gso/"> Graduate School of Oceanography</a>
-  URI <a href="https://web.uri.edu/engineering/about/ocean-engineering/">Department of Ocean Engineering</a>
+  Undergraduate Student at the University of Rhode Island
   Narragansett, RI 02882
   <br><br>
-  <a href="http://geotracerkitchen.org">Geotracerkitchen.org></a>
+  <a href="https://twitter.com/elizabethsaraf1></a>
   <br><br>
   
 theme: jekyll-theme-minimal

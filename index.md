@@ -1,24 +1,31 @@
 ## Bio
 
+Interested in the Sensory Ecology and Behaviors of Marine fauna
+Advocate of Climate Change
+
+
 ---
 ### Education
 
-1. B.S. UC Santa Barbara, 1999
-2. M.Sc. Catholic University of Chile, 2003
-3. PhD.  Columbia University, 2009
+Student Pursuing a B.S. in Marine Biology 
+Ernest F. Hollings Scholar Recipient 
+National Society of Collegiate Scholars Member
 
-[Academic CV]()
+
+
+[Academic CV](file:///Users/esaraf/Downloads/CV%20(4).pdf)
 
 ---
 ### Work Experience
 
+NOAA's Southwest Fisheries Science Center 
+Former Coastal & Environmental Fellow 
+Former Aquarist & Conservationist at Save the Bay
 
 ---
 ### Recent projects
 
-1. [k_eff in the sea ice zone](https://github.com/bloose/keff_in_SeaIceZone)
-2. [Backfit algorithm in Python](https://github.com/bloose/Python_GAM_Backfit)
-
+Stay Tuned!
 
 ---
 
